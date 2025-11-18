@@ -1,6 +1,6 @@
 ## Ramon M. P. Mariano
 
-- 💼 Estagiário na **Copel Distribuição**
+- 💼 Líder de desenvolvimento em OPX 
 - 🎓 **Engenharia Eletrônica** na **UTFPR**
 - 🤖 Atualmente estudando **Docker** e desenvolvimento em **microserviços** 
 
