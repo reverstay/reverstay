@@ -4,13 +4,6 @@
 - 🎓 **Engenharia Eletrônica** na **UTFPR**
 - 🤖 Atualmente estudando **Docker** e desenvolvimento em **microserviços** 
 
-<div align="center">
-  <a href="https://github.com/reverstay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reverstay&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_rank=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverstay&layout=compact&langs_count=16&theme=blueberry"/>
-  </a>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C/C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
