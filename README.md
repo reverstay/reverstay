@@ -1,8 +1,9 @@
 ## Ramon M. P. Mariano
 
-- 💼 Líder de desenvolvimento em OPX 
+- 💼 Sonhrador
 - 🎓 **Engenharia Eletrônica** na **UTFPR**
-- 🤖 Atualmente estudando **Docker** e desenvolvimento em **microserviços** 
+- 🤖 Estudando distribuições e aplicações de soluções na área medica, 3D, lavanderias de roupas, telemetrias em geral.
+- Especializado em sistemas de telemetria.
 
 <div align="center">
   <a href="https://www.youtube.com/c/MpMRamon" target="_blank">
